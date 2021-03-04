@@ -1,1 +1,1 @@
-# Result-Declaration
+# Online-Result-Declaration
